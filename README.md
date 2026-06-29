@@ -15,7 +15,7 @@
 
 ### 🔧 About Me
 
-well hi! i'm a mech student at **IIITDM Kancheepuram**, building websites and interactive tools around some physics that i randomly get interested in. while also working in the Brakes Subsystem for our E-Baja team, **Revolt Racers**(it's really cool). Outside club, I'm huge on theoretical physics mainly with atomic physics while slowly integrating it with the quantum aspects. i'm also an athlete and would die for a good **Billy Joel** or **Elton John** or **Fleetwood Mac** - like playlist 
+well hi! i'm a mech student at **IIITDM Kancheepuram**, i sometimes build some simulatin websites on physics topics while also working in the Brakes Subsystem for our E-Baja team, **Revolt Racers**(it's really cool). Outside club, I'm huge on theoretical physics mainly with atomic physics while slowly integrating it with the quantum aspects. i'm also an athlete and would die for a good **Billy Joel** or **Elton John** or **Fleetwood Mac** - like playlist 
 
 📍 Chennai, India
 
