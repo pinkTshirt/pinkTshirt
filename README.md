@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Building+Web+Tools+for+ME+Subjects;Brakes+Subsystem+%7C+E-Baja+Team;Researching+Atomic+Magnetometers+%26+Spin+Dynamics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Building+Web+Tools+for+ME+Subjects;Brakes+Subsystem+%7C+E-Baja+Team;Research+%26+Atomic+Quantum+Physics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 ---
