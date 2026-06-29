@@ -42,4 +42,4 @@ well hi! i'm a mech student at **IIITDM Kancheepuram**, building websites and in
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhanyashri-viswanathan-9bb7a8368/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dhanvis235@gmail.com)
 
-<p align="center"><i>i'm always down for a challenge where i get to challenge myself too! </i></p>
+<p align="center"><i>love a good challenge (extra points if i get free food)</i></p>
