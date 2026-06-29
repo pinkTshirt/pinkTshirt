@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+this+is+Dhanya!;Hi+this+is+Dhanya!&font=Fira%20Code&center=true&width=500&height=60&color=58A6FF&vCenter=true&size=28&repeat=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=hey+this+is+dhanya;hey+this+is+dhanya&font=Fira%20Code&center=true&width=500&height=60&color=58A6FF&vCenter=true&size=28&repeat=true" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Building+Web+Tools+for+ME+Subjects;Brakes+Subsystem+%7C+E-Baja+Team;Research+%26+Atomic+Quantum+Physics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Coding+random+physics+related+engines;Brakes+Subsystem+%7C+E-Baja+Team+%7C+Revolt+Racers;Research+%7C+Atomic+and+Quantum+Physics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 ---
