@@ -15,7 +15,7 @@
 
 ### /(*^0^*)/
 
-this is just a side quest with me exploiting claude and my sleep schedule but i enjoy it. what i actually do is 3d model and figure out blender
+this is just a side quest with me exploiting claude and my sleep schedule but i enjoy it. what i actually do is cad modelling and figure out blender :rage3:
 
 📍 Chennai, India
 
