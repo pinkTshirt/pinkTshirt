@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Mechanical+Engineering+Student;Coding+random+physics+related+stuff;Brakes+Subsystem+%7C+E-Baja+Team+%7C+Revolt+Racers;Research+%7C+Atomic+and+Quantum+Physics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=physics+engines+%7C+simulations;sae+member+%7C+ebaja;research+%7C+atomic+and+quantum+physics&font=Fira%20Code&center=true&width=600&height=45&color=8B949E&vCenter=true&size=20" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ### 🔧 About Me
 
-well hi! i'm a mech student at **IIITDM Kancheepuram**, i sometimes build some simulatin websites on physics topics while also working in the Brakes Subsystem for our E-Baja team, **Revolt Racers**(it's really cool). Outside club, I'm huge on theoretical physics mainly with atomic physics while slowly integrating it with the quantum aspects. i'm also an athlete and would die for a good **Billy Joel** or **Elton John** or **Fleetwood Mac** - like playlist 
+well hi! i'm a mech student at **IIITDM Kancheepuram**, i sometimes build some simulations or websites on physics topics while also working in the Brakes Subsystem for our E-Baja team, **Revolt Racers**(it's really cool). Outside club, I'm huge on theoretical physics mainly with atomic physics while slowly integrating it with the quantum aspects. i'm also an athlete and would die for a good **Billy Joel** or **Elton John** or **Fleetwood Mac** - like playlist 
 
 📍 Chennai, India
 
