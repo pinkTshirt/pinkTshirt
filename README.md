@@ -13,7 +13,7 @@
 
 ---
 
-### /(*0*)/
+### /(*^0^*)/
 
 this is just a side quest with me exploiting claude and my sleep schedule but i enjoy it. what i actually do is 3d model and figure out blender
 
@@ -24,7 +24,9 @@ this is just a side quest with me exploiting claude and my sleep schedule but i 
 ### 🔗 mains
 
 · [brake-thermal-dynamics-sim](https://github.com/pinkTshirt/brake-thermal-dynamics-sim) : hydraulic brakes - working and thermal aspects
+
 · [sat-physics-engine](https://github.com/pinkTshirt/sat-physics-engine) : N-body dynamics with presets
+
 · [black-hole](https://github.com/pinkTshirt/black-hole) : just an interstellar-y black hole sim
 
 ---
