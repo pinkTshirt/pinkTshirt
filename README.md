@@ -27,7 +27,6 @@ this is just a side quest with me exploiting claude and my sleep schedule but i 
 
 · [sat-physics-engine](https://github.com/pinkTshirt/sat-physics-engine) : N-body dynamics with presets
 
-· [black-hole](https://github.com/pinkTshirt/black-hole) : just an interstellar-y black hole sim
 
 ---
 
